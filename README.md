@@ -4,7 +4,7 @@ Welcome to my repository where I document my daily progress in Data Structures a
 
 ## 📊 Stats
 - **Language Used:** Java 
-- **Total Problems Solved:** 5
+- **Total Problems Solved:** 6
 - **Goal:** Mastering Competitive Programming and Interviews.
 
 ## 📁 Repository Structure
