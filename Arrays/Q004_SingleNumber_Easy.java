@@ -5,7 +5,7 @@
  * Space Complexity: O(1)
  */
 
-public class Q4_SingleNumber_Easy {
+public class Q004_SingleNumber_Easy {
     public static int singleNumber(int[] nums) {
         int ans = 0;
         for(int i=0; i<nums.length; i++){
