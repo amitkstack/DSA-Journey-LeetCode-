@@ -5,7 +5,7 @@
  * Space Complexity: O(1)
  */
 
-public class Q3_Merge2SortedArrayWithoutExtraSpace_Easy {
+public class Q003_Merge2SortedArrayWithoutExtraSpace_Easy {
     public void merge(int[] A, int m, int[] B, int n) {
         int idx = m + n - 1;
         int i = m - 1, j = n - 1;
