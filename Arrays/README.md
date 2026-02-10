@@ -6,6 +6,7 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 - Two Pointers Technique
 - Sliding Window
 - Prefix Sum
+- Kadan's Algorithm
 
 ## 📝 Problem List
 
