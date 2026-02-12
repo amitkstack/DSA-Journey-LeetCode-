@@ -10,6 +10,7 @@
 import java.util.Arrays;
 public class Q001_MajorityElement_Easy{
     public static int majorityElement(int[] nums) {
+        // ----------------- 3rd Approach -------------------------
         int n = nums.length;
         int freq = 0;
         int ans = 0;
@@ -22,6 +23,7 @@ public class Q001_MajorityElement_Easy{
         }
         return ans;
 
+        // ----------------- 2nd Approach -------------------------
         // Arrays.sort(nums);
         // int freq = 1;
         // int ans = nums[0];
@@ -36,7 +38,8 @@ public class Q001_MajorityElement_Easy{
         //     }
         // }
         // return nums[0];
-        
+
+        // ----------------- 1st Approach -------------------------
         // int ele = (nums.length) / 2;
         // for(int i=0; i<nums.length; i++) {
         //     int c = 0;
