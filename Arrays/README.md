@@ -23,5 +23,5 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 | 009 | Sort Colors | 🟡 Medium | [Problem](https://leetcode.com/problems/sort-colors/) | [View Code](./Q009_SortColors_Medium.java) |
 | 012 | Search a 2D Matrix | 🟡 Medium | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [View Code](./Q012_SearchIn2dMatrix_Medium.java) |
 
----
+------
 *Keep coding and stay consistent! 🚀*
