@@ -22,6 +22,7 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 | 008 | Container With Most Water | 🟡 Medium | [Problem](https://leetcode.com/problems/container-with-most-water/) | [View Code](./Q008_ContainerWithMostWater_Medium.java) |
 | 009 | Sort Colors | 🟡 Medium | [Problem](https://leetcode.com/problems/sort-colors/) | [View Code](./Q009_SortColors_Medium.java) |
 | 012 | Search a 2D Matrix | 🟡 Medium | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [View Code](./Q012_SearchIn2dMatrix_Medium.java) |
+| 013 | Next Permutation | 🟡 Medium | [Problem](https://leetcode.com/problems/next-permutation/) | [View Code](./Q013_NextPermutation_Medium.java) |
 
 ------
 *Keep coding and stay consistent! 🚀*
