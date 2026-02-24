@@ -3,7 +3,7 @@
 A collection of Data Structures and Algorithms problems focused on the String module.
 
 ### 🧠 Concepts Covered:
-- Two Pointers Technique
+- Two Pointers Technique 
 
 ## 📝 Problem List
 
