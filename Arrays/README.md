@@ -8,7 +8,7 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 - Kadan's Algorithm
 - Dutch National Flag Algorithm
 
-## 📝 Problem List
+## 📝 Problem List 
 
 | Question # | Problem Name | Difficulty | LeetCode Link | My Solution |
 | :--- | :--- | :--- | :--- | :--- |
