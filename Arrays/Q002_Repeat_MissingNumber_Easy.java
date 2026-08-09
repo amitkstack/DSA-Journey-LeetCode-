@@ -28,6 +28,6 @@ public class Q002_Repeat_MissingNumber_Easy {
         if(arr[1] == 0){
             arr[1] = newArr.length;
         }
-        return arr;
+        return arr; 
     }
 }
